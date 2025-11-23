@@ -1,0 +1,30 @@
+.hero-section {
+  width: 1728px;
+  height: 2592px;
+  background-image: url('/public/assets/hero.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  position: relative;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5%;
+  color: white;
+}
+.hero-section1 {
+  width: 1728px;
+  height: 5081px;
+  background-color: #1B2316;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  position: relative;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5%;
+  color: white;
+}
