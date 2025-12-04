@@ -3,9 +3,9 @@
 A simple and elegant Plant Listing Page built using React.js, Tailwind CSS, and HTML.
 This project displays a collection of plants with clean UI components, responsive layout, and modern styling.
 
-![Plants Grid Screenshot]((https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(236).png))
-![Mobile View Screenshot]((https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(237).png))
-![Plants Grid Screenshot]((https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(238).png))
+![Plants Grid Screenshot]([https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(236).png])
+![Mobile View Screenshot]([https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(237).png])
+![Plants Grid Screenshot](https://github.com/ShivamThakur121/plant-listing-page1/blob/1109b4b88eb0e20f96699981497cbe9b09cdc6a3/Screenshot%20(238).png])
 
 
 
